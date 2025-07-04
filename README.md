@@ -1,4 +1,3 @@
-# Music-Store-SQL-Project
 #  Music Store SQL Analysis
 
 This project explores a **music store database** using **SQL (PostgreSQL)** to uncover valuable business insights.
